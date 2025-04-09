@@ -1,6 +1,5 @@
--- GatheringItems.lua
-GatherProfitScannerItems = {
-    ["Herbalism"] = {
+{
+    "Herbalism" = [
         { itemID = 2447, name = "Peacebloom", requiredLevel = 1 },
         { itemID = 765, name = "Silverleaf", requiredLevel = 1 },
         { itemID = 2449, name = "Earthroot", requiredLevel = 15 },
@@ -26,8 +25,8 @@ GatherProfitScannerItems = {
         { itemID = 13466, name = "Plaguebloom", requiredLevel = 285 },
         { itemID = 13467, name = "Icecap", requiredLevel = 290 },
         { itemID = 13468, name = "Black Lotus", requiredLevel = 300 },
-    },
-    ["Mining"] = {
+    ],
+    "Mining" = [
         { itemID = 2770, name = "Copper Ore", requiredLevel = 1 },
         { itemID = 2771, name = "Tin Ore", requiredLevel = 65 },
         { itemID = 2836, name = "Coarse Stone", requiredLevel = 75 },
@@ -47,8 +46,8 @@ GatherProfitScannerItems = {
         { itemID = 1705, name = "Lesser Moonstone", requiredLevel = 125 },
         { itemID = 3864, name = "Citrine", requiredLevel = 175 },
         { itemID = 7910, name = "Star Ruby", requiredLevel = 250 },
-    },
-    ["Fishing"] = {
+    ],
+    "Fishing" = [
         { itemID = 6291, name = "Raw Longjaw Mud Snapper", requiredLevel = 1 },
         { itemID = 6308, name = "Raw Slitherskin Mackerel", requiredLevel = 1 },
         { itemID = 6303, name = "Raw Slitherskin Tuna", requiredLevel = 1 },
@@ -68,8 +67,8 @@ GatherProfitScannerItems = {
         { itemID = 7974, name = "Zesty Clam Meat", requiredLevel = 175 },
         { itemID = 5503, name = "Clam Meat", requiredLevel = 50 },
         { itemID = 8365, name = "Raw Mithril Head Trout", requiredLevel = 175 },
-    },
-    ["Skinning"] = {
+    ],
+    "Skinning" = [
         { itemID = 2934, name = "Ruined Leather Scraps", requiredLevel = 1 },
         { itemID = 2318, name = "Light Leather", requiredLevel = 1 },
         { itemID = 783, name = "Light Hide", requiredLevel = 10 },
@@ -94,5 +93,5 @@ GatherProfitScannerItems = {
         { itemID = 7392, name = "Green Whelp Scale", requiredLevel = 175 }, -- Swamp of Sorrows
         { itemID = 6470, name = "Deviate Scale", requiredLevel = 75 }, -- Wailing Caverns
         { itemID = 6471, name = "Perfect Deviate Scale", requiredLevel = 100 }, -- Wailing Caverns
-    },
+    ],
 }
