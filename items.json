@@ -78,20 +78,20 @@
         { "itemID" : 4235, "name" : "Heavy Hide", "requiredLevel" : 150 },
         { "itemID" : 8170, "name" : "Rugged Leather", "requiredLevel" : 250 },
         { "itemID" : 8171, "name" : "Rugged Hide", "requiredLevel" : 250 },
-        { "itemID" : 15423, "name" : "Chimera Leather", "requiredLevel" : 225 }, -- From chimeras
-        { "itemID" : 15422, "name" : "Frostsaber Leather", "requiredLevel" : 275 }, -- Winterspring
-        { "itemID" : 15419, "name" : "Warbear Leather", "requiredLevel" : 275 }, -- High-level bears
-        { "itemID" : 15415, "name" : "Blue Dragonscale", "requiredLevel" : 275 }, -- Dragonkin
-        { "itemID" : 15414, "name" : "Red Dragonscale", "requiredLevel" : 300 }, -- Rare dragonkin
-        { "itemID" : 15416, "name" : "Black Dragonscale", "requiredLevel" : 300 }, -- Blackrock Depths dragons
-        { "itemID" : 15417, "name" : "Devilsaur Leather", "requiredLevel" : 300 }, -- Un'Goro Crater
-        { "itemID" : 17012, "name" : "Core Leather", "requiredLevel" : 300 }, -- Molten Core hounds
-        { "itemID" : 15412, "name" : "Green Dragonscale", "requiredLevel" : 275 }, -- Swamp of Sorrows
-        { "itemID" : 8150, "name" : "Deeprock Salt", "requiredLevel" : 175 }, -- From certain beasts
-        { "itemID" : 8165, "name" : "Worn Dragonscale", "requiredLevel" : 200 }, -- Low drop chance
-        { "itemID" : 7286, "name" : "Black Whelp Scale", "requiredLevel" : 50 }, -- Redridge whelps
-        { "itemID" : 7392, "name" : "Green Whelp Scale", "requiredLevel" : 175 }, -- Swamp of Sorrows
-        { "itemID" : 6470, "name" : "Deviate Scale", "requiredLevel" : 75 }, -- Wailing Caverns
-        { "itemID" : 6471, "name" : "Perfect Deviate Scale", "requiredLevel" : 100 }, -- Wailing Caverns
+        { "itemID" : 15423, "name" : "Chimera Leather", "requiredLevel" : 225 }, 
+        { "itemID" : 15422, "name" : "Frostsaber Leather", "requiredLevel" : 275 }, 
+        { "itemID" : 15419, "name" : "Warbear Leather", "requiredLevel" : 275 },
+        { "itemID" : 15415, "name" : "Blue Dragonscale", "requiredLevel" : 275 }, 
+        { "itemID" : 15414, "name" : "Red Dragonscale", "requiredLevel" : 300 }, 
+        { "itemID" : 15416, "name" : "Black Dragonscale", "requiredLevel" : 300 },
+        { "itemID" : 15417, "name" : "Devilsaur Leather", "requiredLevel" : 300 },
+        { "itemID" : 17012, "name" : "Core Leather", "requiredLevel" : 300 }, 
+        { "itemID" : 15412, "name" : "Green Dragonscale", "requiredLevel" : 275 },
+        { "itemID" : 8150, "name" : "Deeprock Salt", "requiredLevel" : 175 },
+        { "itemID" : 8165, "name" : "Worn Dragonscale", "requiredLevel" : 200 },
+        { "itemID" : 7286, "name" : "Black Whelp Scale", "requiredLevel" : 50 },
+        { "itemID" : 7392, "name" : "Green Whelp Scale", "requiredLevel" : 175 },
+        { "itemID" : 6470, "name" : "Deviate Scale", "requiredLevel" : 75 },
+        { "itemID" : 6471, "name" : "Perfect Deviate Scale", "requiredLevel" : 100 },
     ],
 }
